@@ -41,6 +41,10 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ## This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
+
+# This is a big title
+
+## This one is not that big
 ```
 
 #### How it looks
@@ -50,6 +54,10 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ## This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
+
+# This is a big title
+
+## This one is not that big
 
 ### :keyboard: Activity: Edit your file with headers
 
@@ -64,6 +72,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+## changes: add two header, one says"This is a big title", one says "This one is not that big".**
 
 <footer>
 
